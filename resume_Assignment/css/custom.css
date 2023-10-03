@@ -1,0 +1,19 @@
+
+.navbar-nav {
+    margin-left: auto;
+}
+a.nav-link{
+    color: white !important;
+}
+.section{
+    padding-top: 64px !important;
+    background-color: rgb(53, 112, 189);
+    padding-bottom: 64px;
+    color: white;
+}
+.underline{
+    width: 100px !important;
+    height: 0.2px;
+    border: solid black;
+    
+}
